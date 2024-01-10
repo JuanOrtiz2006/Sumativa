@@ -1,0 +1,20 @@
+
+ion-img {
+    height: 100%;
+    width: 100%;
+  }
+  
+  @media (max-width: 600px) {
+    ion-img, ion-label {
+    height: 200px;
+    width: 100%;
+    }
+  }
+
+  @media (max-width: 100px) {
+    ion-img {
+        height: 100%;
+        width: 100%;
+      }
+  }
+  
